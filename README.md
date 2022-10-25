@@ -1,6 +1,6 @@
 # packagebmi
 
-Description. 
+Description 
 
 The package packagebmi is used to:
 - Calculate individual body mass index.
@@ -24,9 +24,9 @@ filebmi.bmi_category(weight, height)
 
 ## Important
 
-The function 'filebmi.bmi(weight, height)' returns bmi result
+The function 'filebmi.bmi(weight, height)' returns bmi result.
 
-The function 'filebmi.bmi_category(weight, height)' returns bmi category
+The function 'filebmi.bmi_category(weight, height)' returns bmi category.
 
 ## Author
 Glauco Mori
